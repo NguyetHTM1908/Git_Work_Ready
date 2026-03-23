@@ -1,2 +1,6 @@
 # Git_Work_Ready
-nguyet xinh
+## team member
+###nhat
+###nguyet xinh
+
+
